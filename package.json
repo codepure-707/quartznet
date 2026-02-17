@@ -13,7 +13,7 @@
     "@vuepress/plugin-register-components": "2.0.0-rc.21",
     "@vuepress/theme-default": "2.0.0-rc.26",
     "vuepress": "2.0.0-rc.9",
-    "webpack": "^5.91.0"
+    "webpack": "^5.98.0"
   },
   "scripts": {
     "docs:build": "vuepress-cli build docs --clean-cache --clean-temp",
